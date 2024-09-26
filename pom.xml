@@ -152,6 +152,13 @@
     <version>2.29.0</version>
 </dependency>
 
+<!-- https://mvnrepository.com/artifact/io.qameta.allure/allure-cucumber7-jvm -->
+<dependency>
+    <groupId>io.qameta.allure</groupId>
+    <artifactId>allure-cucumber7-jvm</artifactId>
+    <version>2.25.0</version>
+</dependency>
+
 
 </dependencies>
   
